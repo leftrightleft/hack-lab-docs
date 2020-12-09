@@ -1,0 +1,4 @@
+- [Getting Started](welcome.md)
+- [Connect Your Pi](connect-your-pi.md)
+- [Power on Your Pi](power-on-your-pi.md)
+- [Final Setup](final-setup.md)

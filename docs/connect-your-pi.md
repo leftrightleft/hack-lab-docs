@@ -1,3 +1,4 @@
+![plugin](./_media/pi-plug-in.gif)
 # Connect Your Pi
 
 1. Insert the SD card into the Sd Card slot on the bottom of the Pi
